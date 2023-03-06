@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **e-payment system**
+- 🔭 I’m currently working on **Online Job Application of JUST**
 
-- 🌱 I’m currently learning **ASP.NET, Django, React**
+- 🌱 I’m currently learning **Spring Boot, Django, React**
 
 - 👯 I’m looking to collaborate on **open source**
 
